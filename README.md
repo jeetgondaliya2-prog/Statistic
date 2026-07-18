@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Statistics+Notes+%26+Practical+Examples;Python+Implementation;Essential+Concepts+for+Data+Science;Learn+Statistics+Step+by+Step" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-00BFFF?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge)
 
 ### ⭐ A Complete Beginner-Friendly Statistics Repository for Data Science & Machine Learning
 
@@ -19,13 +15,6 @@
 
 This repository contains my **Statistics learning journey** with well-organized Jupyter notebooks.
 
-Each notebook includes:
-
-- 📚 Theory
-- 🧮 Mathematical Concepts
-- 🐍 Python Implementation
-- 📊 Examples
-- 💡 Practical Explanation
 
 This repository is useful for:
 
@@ -35,22 +24,7 @@ This repository is useful for:
 - College Students
 - Interview Preparation
 
----
 
-# 📂 Repository Structure
-
-```
-Statistics/
-│
-├── Ep-1.ipynb
-├── Ep-2.ipynb
-├── Ep-3.ipynb
-├── Ep-4.ipynb
-├── Ep-5.ipynb
-└── Ep-6.ipynb
-```
-
----
 
 # 📚 Topics Covered
 
