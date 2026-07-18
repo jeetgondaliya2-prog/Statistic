@@ -3,7 +3,7 @@
 # 📊 Statistics for Data Science & Machine Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Statistics+Notes+%26+Practical+Examples;Python+Implementation;Essential+Concepts+for+Data+Science;Learn+Statistics+Step+by+Step" />
-
+ 
 
 ### ⭐ A Complete Beginner-Friendly Statistics Repository for Data Science & Machine Learning
 
